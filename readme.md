@@ -17,5 +17,5 @@ Here you can easily find and navigate between repositories specific to a coursew
 
 
 **Repositories:**
-  *Programming Logic Python Challenge - https://github.com/estev-s/grade-system-challenge*
-  *Finance Blog Project - https://github.com/estev-s/blog-project*
+*Programming Logic - Python Challenge - https://github.com/estev-s/grade-system-challenge*
+*Web Front-End Development - Finance Blog Project - https://github.com/estev-s/blog-project*
